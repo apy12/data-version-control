@@ -1,0 +1,5 @@
+[core]
+    analytics = false
+    remote = remote_storage
+['remote "remote_storage"']
+    url = /Users/linft/Documents/WorkSpace/Test_py/_testing/test_dvc/dvc_remote
